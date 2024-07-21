@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rubeinicer.github.io/sitemap
+Sitemap: https://rubeinicer.github.io/app/sitemap
+Sitemap: https://rubeinicer.github.io/assets/sitemap
+Sitemap: https://rubeinicer.github.io/css/sitemap
+Sitemap: https://rubeinicer.github.io/includes/sitemap
+Sitemap: https://rubeinicer.github.io/item/sitemap
+Sitemap: https://rubeinicer.github.io/src/sitemap
